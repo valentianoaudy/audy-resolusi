@@ -1,5 +1,5 @@
 RENCANA WEBSITE AUDY
-- Merch
-- Profile
-- Wether
-- Blog
+- Merch Website
+- Profile Website
+- Wether Website
+- Blog Website
