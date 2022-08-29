@@ -4,3 +4,5 @@ RENCANA WEBSITE AUDY
 - Wether Website
 - Blog Website
 - Game
+- Search Engine
+- Media Sosial
